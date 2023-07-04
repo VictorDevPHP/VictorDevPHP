@@ -5,7 +5,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api?username=victordevphp&show_icons=true&theme=merko">
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevphp&layout=compact&theme=merko">
-  <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
+  <img align="center" alt="Rafa-Js" height="200" width="482" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
+  <img align="center" alt="GIF" height="200" width="360" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div>
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -16,6 +17,8 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
     ![php](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+    ![php](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+    ![php]( 	https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 <br>
 
 - **Frontend**:
@@ -37,5 +40,11 @@
     ![C++](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 <br> 
+
+## Contato: 
+
+  <a  href="https://www.linkedin.com/in/victordevphp/" target="_blank"  align="center" >
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+   </a>
 
 ![Snake animation](https://github.com/MeirellesDEV/MeirellesDEV/blob/output/github-contribution-grid-snake.svg)
