@@ -2,6 +2,9 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=abd200&size=25&center=true&vCenter=true&width=600&height=100&lines=Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas%2C;atualmente+trabalho+na+Leadfy%2C;uma+martech+voltada+para+o+ramo+automotivo."></a>
 </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api?username=victordevphp&show_icons=true&theme=merko">
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevphp&layout=compact&theme=merko">
