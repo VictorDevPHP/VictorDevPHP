@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api?username=victordevphp&show_icons=true&theme=merko">
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevphp&layout=compact&theme=merko">
-  <img align="center" alt="Rafa-Js" height="200" width="482" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
+  <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
   <img align="center" alt="GIF" height="200" width="360" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div>
 
