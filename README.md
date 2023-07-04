@@ -5,11 +5,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<div style="display: inline_block"><br>
+
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api?username=victordevphp&show_icons=true&theme=merko">
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevphp&layout=compact&theme=merko">
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
-</div>
+
 
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -43,7 +43,7 @@
 
 <br> 
 
-## Contato: 
+# Contato: 
 
   <a  href="https://www.linkedin.com/in/victordevphp/" target="_blank"  align="center" >
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
