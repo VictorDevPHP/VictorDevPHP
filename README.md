@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api?username=victordevphp&show_icons=true&theme=merko">
   <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victordevphp&layout=compact&theme=merko">
-  <img align="center" alt="Rafa-Js" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
+  <img align="center" alt="Rafa-Js" height="200" width="482" src="https://github-readme-streak-stats.herokuapp.com/?user=victordevphp&theme=merko">
   <img align="center" alt="GIF" height="200" width="360" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 </div>
 
@@ -48,6 +48,9 @@
 
   <a  href="https://www.linkedin.com/in/victordevphp/" target="_blank"  align="center" >
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+   </a>
+     <a  href="https://www.instagram.com/wtfvictor___/" target="_blank"  align="center" >
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
    </a>
 
 ![Snake animation](https://github.com/MeirellesDEV/MeirellesDEV/blob/output/github-contribution-grid-snake.svg)
