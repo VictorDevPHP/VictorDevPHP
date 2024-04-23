@@ -64,6 +64,12 @@
 
 <br> 
 
+<div align="center">
+  <br><p align="center"><b>Visitors Count</b></p>
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{VictorDevPHP}/count.svg"/></p>
+  <br>
+</div>
+
 # Contato: 
 
   <a  href="https://www.linkedin.com/in/victordevphp/" target="_blank"  align="center" >
